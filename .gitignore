@@ -1,0 +1,5 @@
+__pycache__/
+# created by the program when it runs
+affirmations.txt
+ratings.json
+calm_music.wav
