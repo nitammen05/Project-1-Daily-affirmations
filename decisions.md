@@ -81,7 +81,8 @@ Each entry says what I chose, why, and where to change it if you disagree.
 26. **Cleanup of what you type:** extra spaces and line breaks are squeezed
     into one line, because each affirmation must fit on one line of the file.
 27. **Empty and exact-duplicate entries are rejected** with a friendly message.
-28. **300-character limit** on a new affirmation.
+28. **300-character limit** on a new affirmation. It's enforced only by the
+    browser's text box; the server doesn't check it.
 29. **No delete or edit button** in the page. You can edit the txt file
     directly.
 
