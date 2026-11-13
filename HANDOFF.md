@@ -51,7 +51,7 @@ because `affirmations.txt` and `ratings.json` now exist.
 
 ## Teaching thread to pick up
 
-- The user learned how to run the app and the tests. Two check-yourself
+- The user learned how to run the app and the tests. Three check-yourself
   questions were asked but **not answered yet**:
   1. Why doesn't clicking "Another affirmation" stop the music? (Answer: the
      iframe.)
